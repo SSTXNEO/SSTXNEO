@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenchang Yang.
 - ❤️ I’m a product designer passionate about mobile UX, web design, accessibility, and UI components. 
 - 👨🏻‍💻 I’m the creator of [UIKit Lab](https://apps.apple.com/in/app/uikit-lab/id1572751890).
-- 📏 I’m currently working at MicroStrategy.
+- 📏 I’m currently working at Splunk.
 - 📫 Here is my [portfolio](https://www.wenchangyang.com).
 
 <!---
